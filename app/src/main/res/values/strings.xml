@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rango</string>
+    <string name="feul">油耗</string>
+    <string name="tire">輪胎更換</string>
+
+
+
+    <string name="title_activity_feul">FeulActivity</string>
+    <string name="title_activity_test1">Test1</string>
+</resources>
